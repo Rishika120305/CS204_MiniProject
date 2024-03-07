@@ -5,6 +5,7 @@ All conversion is based on formats present in RISC – V Reference Sheet .
 
 
 HOW TO RUN THE CODE:
+
 -> Place the code to translate in test.asm File
 -> Compile A-to-M.cpp
 -> Output will be produced in MCode.mc File
