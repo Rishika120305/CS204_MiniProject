@@ -12,6 +12,6 @@ HOW TO RUN THE CODE:
 -> MCode.mc has Machine Code in Hexadecimal Form with Program Counter followed by Data Memory Part.
 
 GROUP MEMBERS:  
-Thoutam Rishika (2022csb1138)
-Divya Gola   (2022csb1080)
-Himanshi Wanjari  (2022csb1085)
+Thoutam Rishika (2022csb1138)  
+Divya Gola   (2022csb1080)  
+Himanshi Wanjari  (2022csb1085)  
